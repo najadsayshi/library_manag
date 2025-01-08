@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
+- [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -14,11 +15,11 @@
 The **Library Management System** is a web application that helps users manage a library by performing CRUD operations on book records. It allows users to add, view, update, delete, issue, and return books.
 
 ## Features
-- Add new books with details such as name, author, pages, and price.
-- View all available books in a tabular format.
-- Issue and return books, updating their availability status.
-- Delete books from the library.
-- User-friendly interface with responsive design.
+- 📚 Add new books with details such as name, author, pages, and price.
+- 📋 View all available books in a tabular format.
+- 🔄 Issue and return books, updating their availability status.
+- 🗑️ Delete books from the library.
+- 🖥️ User-friendly interface with responsive design.
 
 ## Technologies Used
 - **Node.js**: Backend runtime environment.
@@ -79,6 +80,10 @@ library_manag/
 └── README.md        # Project documentation
 ```
 
+## Future Enhancements
+- 🔒 Implement login functionality for users and admin.
+- 💸 Allow users to sell books through the system.
+
 ## Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
@@ -93,7 +98,7 @@ Contributions are welcome! To contribute:
 4. Push to your forked repository and create a pull request.
 
 ## License
-This project is licensed under the NAJAD LICENCE :)).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 Feel free to explore, contribute, and enhance the system as needed!
