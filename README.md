@@ -98,7 +98,7 @@ Contributions are welcome! To contribute:
 4. Push to your forked repository and create a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the NAJAD LICENSE :))
 
 ---
 Feel free to explore, contribute, and enhance the system as needed!
